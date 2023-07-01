@@ -1,4 +1,4 @@
-# Deep-Chat-Gizlilik-Politikas-
+# Deep-Chat-Gizlilik-Politikasi
 Deep Chat Gizlilik Politikası
 
 Deep Chat kullanıcıdan aşağıdaki verileri alır ve saklar.
