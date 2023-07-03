@@ -24,4 +24,4 @@ Kişisel verilerin silinmesini veya yok edilmesini isteme,
 (e) ve (f) bentleri uyarınca yapılan işlemlerin, kişisel verilerin aktarıldığı üçüncü kişilere bildirilmesini isteme,
 İşlenen verilerin münhasıran otomatik sistemler vasıtasıyla analiz edilmesi suretiyle kişinin kendisi aleyhine bir sonucun ortaya çıkmasına itiraz etme,
 Kişisel verilerin kanuna aykırı olarak işlenmesi sebebiyle zarara uğraması hâlinde zararın giderilmesini talep etme, haklarına sahiptir.
-Yukarıda sayılan haklarınızı kullanmak üzere email@site.com üzerinden bizimle iletişime geçebilirsiniz.
+Yukarıda sayılan haklarınızı kullanmak üzere taylanhubeylioglu@gmail.com üzerinden bizimle iletişime geçebilirsiniz.
